@@ -42,3 +42,7 @@ Develop a Python script to monitor real-time network bandwidth usage. The script
   
 5. ![NBW pic #5](https://github.com/CyberneticJosh96/Network-Bandwidth-Monitor/assets/146404458/4bd50e14-a458-4049-9663-c0424e15be74)
      - This conditional statement ensures that the main() function is executed only when the script is run directly, preventing unintended execution when imported as a module. It         concludes the script, making it modular and reusable.
+
+
+
+
